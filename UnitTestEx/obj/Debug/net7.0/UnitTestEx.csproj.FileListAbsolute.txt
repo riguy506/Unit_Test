@@ -1,0 +1,12 @@
+/Users/rileypowers/Documents/3330_vsc_store/UnitTestEx/bin/Debug/net7.0/UnitTestEx.deps.json
+/Users/rileypowers/Documents/3330_vsc_store/UnitTestEx/bin/Debug/net7.0/UnitTestEx.dll
+/Users/rileypowers/Documents/3330_vsc_store/UnitTestEx/bin/Debug/net7.0/UnitTestEx.pdb
+/Users/rileypowers/Documents/3330_vsc_store/UnitTestEx/obj/Debug/net7.0/UnitTestEx.csproj.AssemblyReference.cache
+/Users/rileypowers/Documents/3330_vsc_store/UnitTestEx/obj/Debug/net7.0/UnitTestEx.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rileypowers/Documents/3330_vsc_store/UnitTestEx/obj/Debug/net7.0/UnitTestEx.AssemblyInfoInputs.cache
+/Users/rileypowers/Documents/3330_vsc_store/UnitTestEx/obj/Debug/net7.0/UnitTestEx.AssemblyInfo.cs
+/Users/rileypowers/Documents/3330_vsc_store/UnitTestEx/obj/Debug/net7.0/UnitTestEx.csproj.CoreCompileInputs.cache
+/Users/rileypowers/Documents/3330_vsc_store/UnitTestEx/obj/Debug/net7.0/UnitTestEx.dll
+/Users/rileypowers/Documents/3330_vsc_store/UnitTestEx/obj/Debug/net7.0/refint/UnitTestEx.dll
+/Users/rileypowers/Documents/3330_vsc_store/UnitTestEx/obj/Debug/net7.0/UnitTestEx.pdb
+/Users/rileypowers/Documents/3330_vsc_store/UnitTestEx/obj/Debug/net7.0/ref/UnitTestEx.dll
